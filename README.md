@@ -1,4 +1,4 @@
-## Rossmann retail sales forecasting & business intelligence dashboard
+## AeroDemand-Retail-Predictive-Analytics-System
 
 #### 1️⃣ Project overview
 
